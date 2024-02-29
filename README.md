@@ -9,8 +9,6 @@ Welcome to my single-page portfolio website! This repository contains the code f
 
 ## Live Demo
 
-Explore my portfolio: [https://masumrazait.netlify.app/](https://masumrazait.netlify.app/)
-
 ## Table of Contents
 
 - [About Me](#about-me)
