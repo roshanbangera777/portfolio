@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Masum Raza | Portfolio";
+            document.title = "Roshan | Portfolio";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
