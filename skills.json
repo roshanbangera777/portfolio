@@ -1,23 +1,23 @@
 [
     
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "name": "Transaction",
+        "icon": "https://icons8.com/icon/44874/transaction"
     },
     {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "name": "Gps Payment",
+        "icon": "https://img.icons8.com/bubbles/80/bank-building.png"
     },
     {
-        "name": "Bitbucket",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-color-tal-revivo.png"
+        "name": "Swift Payment",
+        "icon": "https://img.icons8.com/color/80/swift-payment-system.png"
     },
     {
-        "name": "Gitlab",
-        "icon": "https://img.icons8.com/color/50/gitlab.png"
+        "name": "Firco Continuity",
+        "icon": "https://img.icons8.com/color/80/online-money-transfer.png"
     },
     {
         "name": "MS-Office",
-        "icon": "https://img.icons8.com/color/48/office-365.png"
+        "icon": "https://img.icons8.com/color/80/office-365.png"
     }
 ]
