@@ -9,12 +9,12 @@
         "icon": "https://img.icons8.com/bubbles/80/bank-building.png"
     },
     {
-        "name": "Swift GPI",
-        "icon": "https://img.icons8.com/color/80/swift-payment-system.png"
-    },
-    {
         "name": "Firco Continuity",
         "icon": "https://img.icons8.com/color/80/online-money-transfer.png"
+    },
+    {
+        "name": "Swift GPI",
+        "icon": "https://img.icons8.com/color/80/swift-payment-system.png"
     },
     {
         "name": "MS-Office",
